@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc4e724e-768f-4005-8142-b42c842bf16c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="fc4e724e-768f-4005-8142-b42c842bf16c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,11 +30,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597242631856</updated>
-      <workItem from="1597242633490" duration="1078000" />
+      <workItem from="1597242633490" duration="1459000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1597245874764">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="505" y="235" width="670" height="676" key="search.everywhere.popup/0.23.1680.965@0.23.1680.965" timestamp="1597245874764" />
   </component>
 </project>
